@@ -7,23 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BA542532A61EAF40058E811 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA542522A61EAF40058E811 /* LoginViewController.swift */; };
+		8BA542552A61EB8D0058E811 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA542542A61EB8D0058E811 /* LoginViewModel.swift */; };
+		8BA542582A61EE660058E811 /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BA542572A61EE660058E811 /* Login.storyboard */; };
+		8BA5425A2A6576560058E811 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BA542592A6576560058E811 /* Profile.storyboard */; };
+		8BA5425C2A6576E10058E811 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA5425B2A6576E10058E811 /* ProfileViewController.swift */; };
+		8BA5425E2A657E6D0058E811 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA5425D2A657E6D0058E811 /* ProfileViewModel.swift */; };
+		8BA542602A6718EF0058E811 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA5425F2A6718EF0058E811 /* RegisterViewController.swift */; };
 		8BF3D8D22A61E307000E2976 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8D12A61E307000E2976 /* AppDelegate.swift */; };
 		8BF3D8D42A61E307000E2976 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8D32A61E307000E2976 /* SceneDelegate.swift */; };
-		8BF3D8D62A61E307000E2976 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8D52A61E307000E2976 /* ViewController.swift */; };
-		8BF3D8D92A61E307000E2976 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BF3D8D72A61E307000E2976 /* Main.storyboard */; };
 		8BF3D8DB2A61E30B000E2976 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BF3D8DA2A61E30B000E2976 /* Assets.xcassets */; };
 		8BF3D8DE2A61E30B000E2976 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BF3D8DC2A61E30B000E2976 /* LaunchScreen.storyboard */; };
+		8BF3D8E62A61E3CA000E2976 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8E52A61E3CA000E2976 /* AppCoordinator.swift */; };
+		8BF3D8E82A61E3E1000E2976 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8E72A61E3E1000E2976 /* Coordinator.swift */; };
+		8BF3D8EA2A61E4A3000E2976 /* BaseCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8E92A61E4A3000E2976 /* BaseCoordinator.swift */; };
+		8BF3D8F62A61E7A7000E2976 /* ProfileCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8F52A61E7A7000E2976 /* ProfileCoordinator.swift */; };
+		8BF3D8F82A61E7B3000E2976 /* LoginCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8F72A61E7B3000E2976 /* LoginCoordinator.swift */; };
+		8BF3D8FA2A61E9E2000E2976 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF3D8F92A61E9E2000E2976 /* UserModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8BA542522A61EAF40058E811 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		8BA542542A61EB8D0058E811 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		8BA542572A61EE660058E811 /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
+		8BA542592A6576560058E811 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		8BA5425B2A6576E10058E811 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		8BA5425D2A657E6D0058E811 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
+		8BA5425F2A6718EF0058E811 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		8BF3D8CE2A61E307000E2976 /* sicoob-meetup-mvvm-c.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sicoob-meetup-mvvm-c.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF3D8D12A61E307000E2976 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BF3D8D32A61E307000E2976 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8BF3D8D52A61E307000E2976 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8BF3D8D82A61E307000E2976 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8BF3D8DA2A61E30B000E2976 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BF3D8DD2A61E30B000E2976 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BF3D8DF2A61E30B000E2976 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BF3D8E52A61E3CA000E2976 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		8BF3D8E72A61E3E1000E2976 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		8BF3D8E92A61E4A3000E2976 /* BaseCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCoordinator.swift; sourceTree = "<group>"; };
+		8BF3D8F52A61E7A7000E2976 /* ProfileCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCoordinator.swift; sourceTree = "<group>"; };
+		8BF3D8F72A61E7B3000E2976 /* LoginCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginCoordinator.swift; sourceTree = "<group>"; };
+		8BF3D8F92A61E9E2000E2976 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +59,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8BA542562A61ED1D0058E811 /*  Models */ = {
+			isa = PBXGroup;
+			children = (
+				8BF3D8F92A61E9E2000E2976 /* UserModel.swift */,
+			);
+			path = " Models";
+			sourceTree = "<group>";
+		};
 		8BF3D8C52A61E307000E2976 = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +86,90 @@
 		8BF3D8D02A61E307000E2976 /* sicoob-meetup-mvvm-c */ = {
 			isa = PBXGroup;
 			children = (
+				8BF3D8F02A61E752000E2976 /* Profile */,
+				8BF3D8EB2A61E702000E2976 /* Login */,
 				8BF3D8D12A61E307000E2976 /* AppDelegate.swift */,
 				8BF3D8D32A61E307000E2976 /* SceneDelegate.swift */,
-				8BF3D8D52A61E307000E2976 /* ViewController.swift */,
-				8BF3D8D72A61E307000E2976 /* Main.storyboard */,
+				8BF3D8E72A61E3E1000E2976 /* Coordinator.swift */,
+				8BF3D8E92A61E4A3000E2976 /* BaseCoordinator.swift */,
+				8BF3D8E52A61E3CA000E2976 /* AppCoordinator.swift */,
 				8BF3D8DA2A61E30B000E2976 /* Assets.xcassets */,
 				8BF3D8DC2A61E30B000E2976 /* LaunchScreen.storyboard */,
 				8BF3D8DF2A61E30B000E2976 /* Info.plist */,
 			);
 			path = "sicoob-meetup-mvvm-c";
+			sourceTree = "<group>";
+		};
+		8BF3D8EB2A61E702000E2976 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				8BF3D8F72A61E7B3000E2976 /* LoginCoordinator.swift */,
+				8BF3D8EE2A61E742000E2976 /* Views */,
+				8BF3D8ED2A61E730000E2976 /* ViewModels */,
+				8BF3D8EC2A61E727000E2976 /* ViewControllers */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		8BF3D8EC2A61E727000E2976 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				8BA542522A61EAF40058E811 /* LoginViewController.swift */,
+				8BA5425F2A6718EF0058E811 /* RegisterViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		8BF3D8ED2A61E730000E2976 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				8BA542542A61EB8D0058E811 /* LoginViewModel.swift */,
+			);
+			name = ViewModels;
+			sourceTree = "<group>";
+		};
+		8BF3D8EE2A61E742000E2976 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8BA542572A61EE660058E811 /* Login.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8BF3D8F02A61E752000E2976 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				8BF3D8F52A61E7A7000E2976 /* ProfileCoordinator.swift */,
+				8BA542562A61ED1D0058E811 /*  Models */,
+				8BF3D8F42A61E775000E2976 /* Views */,
+				8BF3D8F12A61E759000E2976 /* ViewControllers */,
+				8BF3D8F22A61E762000E2976 /* ViewModels */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		8BF3D8F12A61E759000E2976 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				8BA5425B2A6576E10058E811 /* ProfileViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		8BF3D8F22A61E762000E2976 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				8BA5425D2A657E6D0058E811 /* ProfileViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		8BF3D8F42A61E775000E2976 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8BA542592A6576560058E811 /* Profile.storyboard */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +230,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA542582A61EE660058E811 /* Login.storyboard in Resources */,
 				8BF3D8DE2A61E30B000E2976 /* LaunchScreen.storyboard in Resources */,
+				8BA5425A2A6576560058E811 /* Profile.storyboard in Resources */,
 				8BF3D8DB2A61E30B000E2976 /* Assets.xcassets in Resources */,
-				8BF3D8D92A61E307000E2976 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +244,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BF3D8D62A61E307000E2976 /* ViewController.swift in Sources */,
+				8BA542532A61EAF40058E811 /* LoginViewController.swift in Sources */,
+				8BF3D8EA2A61E4A3000E2976 /* BaseCoordinator.swift in Sources */,
+				8BF3D8E82A61E3E1000E2976 /* Coordinator.swift in Sources */,
+				8BF3D8F82A61E7B3000E2976 /* LoginCoordinator.swift in Sources */,
+				8BF3D8E62A61E3CA000E2976 /* AppCoordinator.swift in Sources */,
+				8BF3D8FA2A61E9E2000E2976 /* UserModel.swift in Sources */,
+				8BA5425E2A657E6D0058E811 /* ProfileViewModel.swift in Sources */,
+				8BA5425C2A6576E10058E811 /* ProfileViewController.swift in Sources */,
 				8BF3D8D22A61E307000E2976 /* AppDelegate.swift in Sources */,
+				8BF3D8F62A61E7A7000E2976 /* ProfileCoordinator.swift in Sources */,
+				8BA542602A6718EF0058E811 /* RegisterViewController.swift in Sources */,
+				8BA542552A61EB8D0058E811 /* LoginViewModel.swift in Sources */,
 				8BF3D8D42A61E307000E2976 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,14 +263,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		8BF3D8D72A61E307000E2976 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8BF3D8D82A61E307000E2976 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		8BF3D8DC2A61E30B000E2976 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -295,8 +403,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "sicoob-meetup-mvvm-c/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -322,8 +430,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "sicoob-meetup-mvvm-c/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

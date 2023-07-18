@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A180FEB4-0CB6-4354-A92B-E7B8880BEB64"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED29DA7-66F0-4119-B5AB-F396E51EB4E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ED29DA7-66F0-4119-B5AB-F396E51EB4E1 - fbbd9a009709d907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.AppCoordinator.start() -&gt; ()"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "2ED29DA7-66F0-4119-B5AB-F396E51EB4E1 - fbbd9a009709d907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.AppCoordinator.start() -&gt; ()"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "080BC188-941E-40B1-8EB2-8665E2E9ED39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(navigationController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "080BC188-941E-40B1-8EB2-8665E2E9ED39 - 97886e8c81c9ef41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.LoginCoordinator.init(navigationController: __C.UINavigationController) -&gt; sicoob_meetup_mvvm_c.LoginCoordinator"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "080BC188-941E-40B1-8EB2-8665E2E9ED39 - 97886e8c81c9ef41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.LoginCoordinator.init(navigationController: __C.UINavigationController) -&gt; sicoob_meetup_mvvm_c.LoginCoordinator"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "202BE273-2F14-4F0E-ACF1-20C5AFD215DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0172632D-A67B-4BA8-AA4E-DEFF6F60FA1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "onTapLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0172632D-A67B-4BA8-AA4E-DEFF6F60FA1A - c72afbeddab701e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.LoginViewModel.onTapLogin() -&gt; ()"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0172632D-A67B-4BA8-AA4E-DEFF6F60FA1A - c72afbeddab701e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sicoob_meetup_mvvm_c.LoginViewModel.onTapLogin() -&gt; ()"
+                  moduleName = "sicoob-meetup-mvvm-c"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunocorrea/Desktop/sicoob-meetup-mvvm-c/sicoob-meetup-mvvm-c/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92CAA5DC-0E99-45A6-B20F-A2E303844374"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loginDidSuccess(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7AFFB72-07AC-46F6-90EE-365CC371E882"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loginController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63AD5ADD-D277-43A1-BB3D-7936A6A43246"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sicoob-meetup-mvvm-c/Login/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "didTapRegister()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
